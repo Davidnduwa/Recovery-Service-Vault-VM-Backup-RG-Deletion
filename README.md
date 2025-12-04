@@ -83,7 +83,7 @@ To successfully delete the RG, you must perform the following steps **in order**
 
 ---
 
-## 📌 Key Takeaways (AZ-104 Exam Focus)
+## 📌 Key Takeaways 
 
 | Topic | Constraint or Requirement |
 | :--- | :--- |
